@@ -27,5 +27,15 @@ Java14:
 - using switch expression 
 - using switch expression with yield Keyword
 
+Java15:
+- using text blocks (""" abc """)
+
+Java16:
+- instanceof Pattern Matching
+- record Definition - https://www.baeldung.com/java-record-keyword
+
+Java17: 
+- Sealed Classes
+
 
 ```
